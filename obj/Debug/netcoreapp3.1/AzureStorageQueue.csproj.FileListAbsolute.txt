@@ -1,0 +1,15 @@
+/Users/deebee/Documents/Repo/AzureStorageQueue/bin/Debug/netcoreapp3.1/AzureStorageQueue.deps.json
+/Users/deebee/Documents/Repo/AzureStorageQueue/bin/Debug/netcoreapp3.1/AzureStorageQueue.runtimeconfig.json
+/Users/deebee/Documents/Repo/AzureStorageQueue/bin/Debug/netcoreapp3.1/AzureStorageQueue.runtimeconfig.dev.json
+/Users/deebee/Documents/Repo/AzureStorageQueue/bin/Debug/netcoreapp3.1/AzureStorageQueue.dll
+/Users/deebee/Documents/Repo/AzureStorageQueue/bin/Debug/netcoreapp3.1/AzureStorageQueue.pdb
+/Users/deebee/Documents/Repo/AzureStorageQueue/obj/Debug/netcoreapp3.1/AzureStorageQueue.csprojAssemblyReference.cache
+/Users/deebee/Documents/Repo/AzureStorageQueue/obj/Debug/netcoreapp3.1/AzureStorageQueue.AssemblyInfoInputs.cache
+/Users/deebee/Documents/Repo/AzureStorageQueue/obj/Debug/netcoreapp3.1/AzureStorageQueue.AssemblyInfo.cs
+/Users/deebee/Documents/Repo/AzureStorageQueue/obj/Debug/netcoreapp3.1/AzureStorageQueue.dll
+/Users/deebee/Documents/Repo/AzureStorageQueue/obj/Debug/netcoreapp3.1/AzureStorageQueue.pdb
+/Users/deebee/Documents/Repo/AzureStorageQueue/bin/Debug/netcoreapp3.1/Azure.Core.dll
+/Users/deebee/Documents/Repo/AzureStorageQueue/bin/Debug/netcoreapp3.1/Azure.Storage.Common.dll
+/Users/deebee/Documents/Repo/AzureStorageQueue/bin/Debug/netcoreapp3.1/Azure.Storage.Queues.dll
+/Users/deebee/Documents/Repo/AzureStorageQueue/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/deebee/Documents/Repo/AzureStorageQueue/obj/Debug/netcoreapp3.1/AzureStorageQueue.csproj.CopyComplete
